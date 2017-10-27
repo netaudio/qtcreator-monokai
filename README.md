@@ -16,3 +16,13 @@ $ cp monokai.xml $HOME/.config/QtProject/qtcreator/styles
 
 In Qt Creator go to _Tools -> Options -> Text Editor -> Font & Colors_ and
 select Monokai under "Color Scheme".
+
+---------------------------------------------------------------------------
+windows:
+Copy the `monokai.xml` file into the styles directory:
+D:\Qt\Qt5.5.1\Tools\QtCreator\share\qtcreator\styles
+
+In Qt Creator go to _Tools -> Options -> Text Editor -> Font & Colors_ and
+select Monokai under "Color Scheme".
+
+
